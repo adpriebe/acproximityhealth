@@ -1,0 +1,10 @@
+C:\Users\Andrew\Desktop\ProximityHealth\bin\x86\Release\ProximityHealth.dll
+C:\Users\Andrew\Desktop\ProximityHealth\bin\x86\Release\ProximityHealth.pdb
+C:\Users\Andrew\Desktop\ProximityHealth\bin\x86\Release\Decal.Adapter.dll
+C:\Users\Andrew\Desktop\ProximityHealth\bin\x86\Release\VirindiViewService.dll
+C:\Users\Andrew\Desktop\ProximityHealth\bin\x86\Release\WebControlWrapper.dll
+C:\Users\Andrew\Desktop\ProximityHealth\bin\x86\Release\System.Data.SQLite.dll
+C:\Users\Andrew\Desktop\ProximityHealth\bin\x86\Release\Decal.Adapter.xml
+C:\Users\Andrew\Desktop\ProximityHealth\bin\x86\Release\VirindiViewService.xml
+C:\Users\Andrew\Desktop\ProximityHealth\obj\x86\Release\ProximityHealth.dll
+C:\Users\Andrew\Desktop\ProximityHealth\obj\x86\Release\ProximityHealth.pdb

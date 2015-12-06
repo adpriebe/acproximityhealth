@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<view icon="8712" title="ProximityHealth" width="220" height="160">
+  <control progid="DecalControls.FixedLayout" clipped="" name="container">
+    <control progid="DecalControls.CheckBox" name="EnablePlugin" left="5" top="5" width="130" height="20" text="Enabled" checked="true" />
+    <control progid="DecalControls.StaticText" name="TrackableCounter" left="150" top="5" width="60" height="20" text="Tracking: 0"/>
+    
+    <control progid="DecalControls.StaticText" name="lsetAcquireRange" left="5" top="32" width="80" height="20" text="Max. Distance"/>
+    <control progid="DecalControls.Edit" name="SetAcquireRange" left="90" top="27" width="30" height="20" text="" />
+
+    <control progid="DecalControls.StaticText" name="lMaxTargets" left="5" top="52" width="80" height="20" text="Max. Targets"/>
+    <control progid="DecalControls.Edit" name="SetMaxTargets" left="90" top="47" width="30" height="20" text="" />
+    <control progid="DecalControls.StaticText" name="lMaxTargets" left="125" top="52" width="60" height="20" text="(1-10)"/>
+
+    <control progid="DecalControls.StaticText" name="lUpdateFreq" left="5" top="72" width="80" height="20" text="Update Freq."/>
+    <control progid="DecalControls.Edit" name="UpdateFrequency" left="90" top="67" width="30" height="20" text="" />
+    <control progid="DecalControls.StaticText" name="lUpdateFreq" left="125" top="72" width="60" height="20" text="(80-300)"/>
+
+    <control progid="DecalControls.PushButton" name="SaveSettings" left="70" top="102" width="80" height="20" text="Save"/>
+
+    <!-- debug controls -->
+    <!--
+    <control progid="DecalControls.StaticText" name="lScaleX" left="5" top="40" width="40" height="20" text="ScaleX"/>
+    <control progid="DecalControls.Edit" name="ScaleX" left="50" top="40" width="50" height="20" text="0.5" />
+    <control progid="DecalControls.StaticText" name="lScaleY" left="5" top="70" width="40" height="20" text="ScaleY"/>
+    <control progid="DecalControls.Edit" name="ScaleY" left="50" top="70" width="50" height="20" text="0.001" />
+    <control progid="DecalControls.StaticText" name="lPreScale" left="5" top="100" width="40" height="20" text="PreScale"/>
+    <control progid="DecalControls.Edit" name="PreScale" left="50" top="100" width="50" height="20" text="0.05" />
+    <control progid="DecalControls.StaticText" name="lPostScale" left="5" top="130" width="40" height="20" text="PostScale"/>
+    <control progid="DecalControls.Edit" name="PostScale" left="50" top="130" width="50" height="20" text="0.05" />
+    <control progid="DecalControls.StaticText" name="lBarHeight" left="5" top="160" width="40" height="20" text="BHeight"/>
+    <control progid="DecalControls.Edit" name="BarHeight" left="50" top="160" width="50" height="20" text="1.05" />
+        
+    <control progid="DecalControls.StaticText" name="lTextScale" left="5" top="190" width="40" height="20" text="TScale"/>
+    <control progid="DecalControls.Edit" name="TextScale" left="50" top="190" width="50" height="20" text="0.15" />
+    <control progid="DecalControls.StaticText" name="lTextHeight" left="5" top="220" width="40" height="20" text="THeight"/>
+    <control progid="DecalControls.Edit" name="TextHeight" left="50" top="220" width="50" height="20" text="1.1" /> -->
+        
+    <!-- next column -->
+
+    <!-- end debug controls -->
+  </control>
+</view>
